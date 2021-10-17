@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ugwuchiagoziestanley@gmail.com**
 
-- ⚡ Fun fact: I watch animes a lot like a whole lot 🚶‍♂️🚶‍♂️
 
 ### 🛠 &nbsp;Languages and Tools
 
