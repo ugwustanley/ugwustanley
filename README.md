@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ugwu Stanley 👋
 
 <!--
 **ugwustanley/ugwustanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-h1 align="center">Hi there 👋, I'm Ugwu Stanley</h1>
 
 
 <h3 align="center">👨‍💻 Front End Developer | Fullstack Developer </h3>
