@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">👨‍💻 Front End Developer | Fullstack Developer </h3>
+<h3>👨‍💻 Front End Developer | Fullstack Developer </h3>
 
 - 🔭 I’m currently working on Authrocket
-- 
+
 - 🌱 I’m currently learning **React.js and NodeJS**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/ugwustanley?tab=repositories)
@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-
-<br>
-<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
