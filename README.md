@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Authrocket
 
-- 🌱 I’m currently learning **React.js and NodeJS**
+- 🌱 I’m currently using **Nextjs and Typescript**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/ugwustanley?tab=repositories)
 
